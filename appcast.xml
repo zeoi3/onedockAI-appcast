@@ -3,12 +3,12 @@
     <channel>
         <title>OneDock AI</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Mon, 09 Mar 2026 02:06:33 +0800</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Mon, 09 Mar 2026 02:11:23 +0800</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeoi3/onedockAI-appcast/releases/download/v1.0.5/OneDock-AI.zip" length="2670015" type="application/octet-stream" sparkle:edSignature="ryKhJXmzSITMw/QaVZJPvbhwcW86hDIH31FTVy7hKueyYrlZ2LPwhvGzCfXRDY1pPemiS5gw9vV1LiGiW3xOCQ=="/>
+            <enclosure url="https://github.com/zeoi3/onedockAI-appcast/releases/download/v1.0.6/OneDock-AI.zip" length="2670009" type="application/octet-stream" sparkle:edSignature="22c4OcPyVUmdmzMpzdQUwNsXXVTIqwcdb7RB8WeTTyiFFPYF3AoJh0k7Y8Y+AiEx8g+Mo5Pcjg/l7Ebc+oI9Cg=="/>
         </item>
     </channel>
 </rss>
