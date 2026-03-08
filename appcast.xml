@@ -4,19 +4,11 @@
         <title>OneDock AI</title>
         <item>
             <title>1.0.5</title>
-            <pubDate>Mon, 09 Mar 2026 00:25:00 +0800</pubDate>
+            <pubDate>Mon, 09 Mar 2026 00:33:06 +0800</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeoi3/onedockAI-appcast/releases/download/v1.0.5/OneDock-AI.zip" length="2651357" type="application/octet-stream" sparkle:edSignature="om9CZ6uSs2SY+2u9mFaAogLAACRZu6K2p6PasK96Pt2n+/PxcIZx6eL8qj+2600V6h7lep7K9u9e4sa8MNYVCg=="/>
-        </item>
-        <item>
-            <title>1.0.4</title>
-            <pubDate>Sun, 08 Mar 2026 22:26:36 +0800</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeoi3/onedockAI-appcast/releases/download/v1.0.4/OneDock-AI.zip" length="2651357" type="application/octet-stream" sparkle:edSignature="om9CZ6uSs2SY+2u9mFaAogLAACRZu6K2p6PasK96Pt2n+/PxcIZx6eL8qj+2600V6h7lep7K9u9e4sa8MNYVCg=="/>
+            <enclosure url="https://github.com/zeoi3/onedockAI-appcast/releases/download/v1.0.5/OneDock-AI.zip" length="2655361" type="application/octet-stream" sparkle:edSignature="pegWhJ02ITr1ONooLDm/XG4+30iTWvmEFbKY4XGGfkXB8pbok6bput8gUpOl+DGRlclldPQ6j4OTco7OEvPhCQ=="/>
         </item>
     </channel>
 </rss>
